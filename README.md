@@ -1,3 +1,3 @@
-# SlantedBookshelf.github.io
+# slantedbookshelf.github.io
 
 My Personal Blog via GitHub
